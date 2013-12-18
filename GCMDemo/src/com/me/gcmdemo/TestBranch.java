@@ -10,6 +10,7 @@ public class TestBranch extends Activity {
 		// TODO Auto-generated method stub
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
+		System.out.println("--");
 	}
 	
 
