@@ -22,7 +22,7 @@ public class GCMIntentService extends GCMBaseIntentService{
 	@Override
 	protected void onError(Context context, String regId) {
 		// TODO Auto-generated method stub
-		Log.e("", "error registration id : "+regId);
+		Log.e("", "error registration idd : "+regId);
 	}
 
 	@Override
